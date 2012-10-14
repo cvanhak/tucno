@@ -9,4 +9,5 @@ function a()
     echo $a;
     return true;
 }
+function b();
 
