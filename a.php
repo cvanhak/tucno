@@ -7,5 +7,6 @@ phpinfo();
 function a()
 {
     echo $a;
+    return true;
 }
 
